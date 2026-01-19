@@ -659,6 +659,9 @@ def select_log_file(log_files, selected_type):
 def interactive_menu():
     """Run the interactive menu."""
     print(f"\n{BOLD}{CYAN}CloudPanel Log Viewer{RESET}")
+    print(f"{BOLD}{GREEN}Author: Gabriel Rosca")
+    print(f"{BOLD}{GREEN}GitHub: https://github.com/gabirosca/cloudpanel-log-viewer")
+    print(f"{BOLD}{GREEN}Support: https://blackwolf.link/q/dPOCrsKYq{RESET}")
     print("=" * 40)
 
     # Get available users
