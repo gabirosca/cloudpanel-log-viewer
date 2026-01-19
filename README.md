@@ -1,5 +1,7 @@
 # CloudPanel Log Viewer
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-29abe0?style=flat-square&logo=ko-fi)](https://ko-fi.com/gabrielrosca)
+
 A simple, interactive Python-based command-line tool to view and analyze CloudPanel logs in a human-readable format with IP geolocation support.
 
 ## Features
